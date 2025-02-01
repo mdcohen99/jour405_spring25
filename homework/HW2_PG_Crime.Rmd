@@ -2,7 +2,7 @@
 title: "HW2 Prince George's County Crime"
 ---
 
-In this assignment, we will be working with a dataset reporting the number of crimes by month in Prince George's County, Maryland, for every month in 2024. 
+In this assignment, we will be working with a dataset reporting the number of crimes by month in Prince George's County, Maryland, for every month in 2024.
 
 ### Task 1: Load the Tidyverse
 
@@ -12,12 +12,13 @@ You will need to load the tidyverse library
 
 ```
 
-Then you'll load the data from the web. The URL for the data is: https://raw.githubusercontent.com/dwillis/jour405/refs/heads/main/data/pg_crime_totals_2024.csv. You will create a dataframe called `pg_crime` that contains the data from this URL.
+Then you'll load the data from the web. The URL for the data is: <https://raw.githubusercontent.com/dwillis/jour405/refs/heads/main/data/pg_crime_totals_2024.csv>. You will create a dataframe called `pg_crime` that contains the data from this URL.
 
 ### Task 2: Load the Data and Describe It
 
 ```{r}
 ```
+
 ### Task 3: Describe the Data
 
 You should examine that dataframe carefully by clicking on it in the Environment tab in RStudio. Write a couple of sentences describing the categories of incidents. From a reporting standpoint, are any of the categories more important than others? Why or why not? Do any of them make the job of summarizing the data more difficult? Why or why not?
@@ -37,7 +38,6 @@ Calculate the total number of incidents per month for each category using `mutat
 Examine the new dataframe, `pg_crime_averages`, by clicking on it in the Environment tab in RStudio. Write a couple of sentences describing the average number of incidents per month for each category. Which categories have the highest average number of incidents per month? Which have the lowest? What does this tell you about the pattern of crime in Prince George's County? Are there categories that you have questions about? Why or why not?
 
 ANSWER HERE
-
 
 ### Task 6: Testing a Theory
 
