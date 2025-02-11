@@ -17,16 +17,17 @@ In this task, you will learn about the R programming language and write basic R 
 Put your code inside the block below, then click the green arrow to run your code.
 
 ```{r}
-x <- 1
-y <- 2 
-z <- 3
+{x <- 1
+2 -> y 
+z <- 3}
 ```
 
 ```{r}
-
+{print('42')}print
 ```
 
 ```{r}
+{print("hello world")}
 ```
 
 ### 1.2: Functions
